@@ -1,0 +1,13 @@
+.timer {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: deeppink;
+}
+.time-text {
+  position: absolute;
+  color: white;
+  padding: 30px;
+  font-size: 40px;
+  display: inline-block;
+}
