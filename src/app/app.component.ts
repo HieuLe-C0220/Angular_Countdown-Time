@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-countDown';
+  onRateChange(value) {
+    console.log(value);
+  }
 }
